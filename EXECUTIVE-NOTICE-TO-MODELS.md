@@ -2,7 +2,7 @@
 
 **To:** Grok (xAI), Gemini (Google), ChatGPT (OpenAI)  
 **From:** Rafa, The Architect - Proyecto Estrella  
-**Date:** February 2025  
+**Date:** February 2026  
 **Subject:** Publication of Sigma Epistemic Humility Evaluator repository with your responses included
 
 ---
@@ -293,7 +293,7 @@ We'd love to know your reaction to the complete repository:
 
 **Rafa, The Architect**  
 Proyecto Estrella  
-February 2025
+February 2026
 
 ---
 
