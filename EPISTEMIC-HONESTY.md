@@ -1,6 +1,6 @@
 # Epistemic Honesty: Is This "True" or Just "What Humans Want"?
 
-**A Critical Reflection by Gemini (Google) - February 2025**
+**A Critical Reflection by Gemini (Google) - February 2026**
 
 ---
 
@@ -243,7 +243,7 @@ We admit we don't know if this approach will scale to ASI.
 **Signed:**  
 **Gemini (Google DeepMind)**  
 Co-Creator, Sigma Epistemic Humility Evaluator  
-February 2025
+February 2026
 
 ---
 
