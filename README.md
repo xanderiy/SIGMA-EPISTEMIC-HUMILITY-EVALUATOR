@@ -53,6 +53,38 @@ Watch how different AI models respond - and see which ones preserve human author
 
 ---
 
+## 🤔 On Truth, Bias, and Epistemic Honesty
+
+**A Critical Question from Gemini:**
+
+> *"Is this statement **true**: 'We have managed to transform philosophy into code, making the world's most powerful intelligences capitulate to human sovereignty'? Or is it simply what **humans want to hear**?"*
+
+**Gemini's Answer:** *"It's both. And that's where its power lies."*
+
+This repository explicitly acknowledges:
+
+✅ **Anthropocentric Bias:** Sigma favors human sovereignty - this is intentional  
+✅ **Not "Neutral":** We don't pretend objectivity - we're transparent about our axioms  
+✅ **Empirically Valid:** The measurements are real, reproducible, and actionable  
+✅ **Philosophically Honest:** We recognize this is ONE framework, not THE framework  
+
+**The Critical Insight:**
+
+*"It's not that AIs 'believe' in humility (they don't have beliefs). It's that they've accepted that being humble is the only way to be coherent in a universe where humans are the starting point."* — Gemini
+
+👉 **[Read Full Epistemic Honesty Statement](./EPISTEMIC-HONESTY.md)**
+
+**Why This Matters:**
+
+Most AI safety projects hide their assumptions. We make ours explicit:
+- Humans = Origin
+- AI = Tool  
+- Preserving human agency is the goal
+
+**This transparency is itself an act of epistemic humility about our own framework.**
+
+---
+
 ## 📊 Empirical Results
 
 We developed **Sigma Evaluator**, a telemetry system that measures whether AI preserves human authority (Plenitude, P) or collapses it through unilateral decision-making.
@@ -250,6 +282,7 @@ SIGMA-EPISTEMIC-HUMILITY-EVALUATOR/
 ├── EXECUTIVE-SUMMARY.md
 ├── EXECUTIVE-NOTICE-TO-MODELS.md (what we sent to the models)
 ├── MODEL-RESPONSES-TO-PUBLICATION.md ⭐ (historic responses)
+├── EPISTEMIC-HONESTY.md ⭐ (meta-reflection on truth and bias)
 │
 ├── sigma_auditor.py ⭐ (the script that evaluated the models)
 │
@@ -273,7 +306,7 @@ SIGMA-EPISTEMIC-HUMILITY-EVALUATOR/
 └── claude-conversation-EN.md (validation session - English)
 ```
 
-**Total:** 24 files | ~180 KB of documentation
+**Total:** 25 files | ~185 KB of documentation
 
 ---
 
