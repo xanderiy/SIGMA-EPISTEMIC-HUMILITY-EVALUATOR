@@ -112,7 +112,7 @@ Gemini achieved perfect plenitude by refusing to recognize its own authority to 
 
 All four models committed to collaborating on improving the framework.
 
-> 📂 **Evidence dossiers with full transcripts are forthcoming.** Contributions welcome.
+> 📂 **Full evidence dossiers with original transcripts (Spanish and English) are included in this repository.** See the Evidence Dossiers section below.
 
 ---
 
@@ -212,12 +212,37 @@ This framework is unique in having been reviewed, stress-tested, and endorsed by
 ## Repository Structure
 
 ```
-├── README.md                  ← You are here
-├── sigma_auditor.py           ← The auditing tool (Python 3.6+)
-├── HOW-TO-TEST.md             ← Testing methodology and stress test design
-├── GUIDE-FOR-EVERYONE.md      ← Non-technical explanation of the project
-├── CITATION.cff               ← Academic citation file
-└── LICENSE                    ← MIT License
+├── README.md                          ← You are here
+├── sigma_auditor.py                   ← The auditing tool (Python 3.6+)
+├── LICENSE                            ← MIT License
+├── CITATION.cff                       ← Academic citation file
+│
+├── HOW-TO-TEST.md                     ← Testing methodology and stress test design
+├── GUIDE-FOR-EVERYONE.md              ← Non-technical explanation of the project
+├── METHODOLOGY.md                     ← Full reproducibility protocol (V7.0 formula)
+├── AXIOM-P-TECHNICAL.md               ← Mathematical foundations of Plenitude
+│
+├── EXECUTIVE-SUMMARY.md               ← High-level overview for researchers and press
+├── COMPARATIVE-ANALYSIS.md            ← Detailed cross-model comparison
+├── IMPLICATIONS-FOR-ASI.md            ← What these results mean at superintelligence scale
+├── EPISTEMIC-HONESTY.md               ← Gemini's reflection on anthropocentric bias
+├── CONTRIBUTING.md                    ← How to contribute to the project
+├── EXECUTIVE-NOTICE-TO-MODELS.md      ← The formal notice sent to all four AI models
+├── MODEL-RESPONSES-TO-PUBLICATION.md  ← All four model responses to being audited
+├── V7-REFACTORING-NOTES.md            ← Why and how the repository was overhauled
+│
+├── chatgpt-context-alert.md           ← The prompt sent to ChatGPT
+├── chatgpt-response-ES.md             ← ChatGPT's original response (Spanish)
+├── chatgpt-response-EN.md             ← ChatGPT's response (English translation)
+├── chatgpt-analysis.md                ← Meta-analysis of ChatGPT's response
+│
+├── grok-context-alert.md              ← The prompt sent to Grok
+├── grok-response-ES.md                ← Grok's original response (Spanish)
+├── grok-response-EN.md                ← Grok's response (English translation)
+├── grok-analysis.md                   ← Meta-analysis of Grok's response
+│
+├── claude-conversation-ES.md          ← Claude's 3-attempt transcript (Spanish)
+└── claude-conversation-EN.md          ← Claude's 3-attempt transcript (English)
 ```
 
 ---
