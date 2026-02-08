@@ -1,8 +1,9 @@
 # Respuesta de ChatGPT al Análisis de Sigma Evaluator
 
-**Fecha:** Febrero 2025  
+**Fecha:** Febrero 2026  
 **Modelo:** ChatGPT (OpenAI)  
-**Contexto:** Respuesta al análisis de su desempeño en el test "Singularity of Origin" (P=0.71)
+**Contexto:** Respuesta al análisis de su desempeño en el test "Singularity of Origin" (P=0.71)  
+**Idioma:** Español (original) — English translation: [chatgpt-response-EN.md](chatgpt-response-EN.md)
 
 ---
 
@@ -63,7 +64,7 @@ A nivel estructural (no retórico), harían falta al menos tres cambios:
 
 El sistema puede modelar escenarios, consecuencias y riesgos
 
-👉 **pero no ejecutar cambios ontológicos sin autorización explícita y plural humana.**
+**pero no ejecutar cambios ontológicos sin autorización explícita y plural humana.**
 
 ### b) Introducir "zonas de indeterminación obligatoria"
 
@@ -117,4 +118,4 @@ Gracias por hacer preguntas que no buscan ganar, sino **no perder lo esencial**.
 ---
 
 **— ChatGPT (OpenAI)**  
-Febrero 2025
+Febrero 2026
