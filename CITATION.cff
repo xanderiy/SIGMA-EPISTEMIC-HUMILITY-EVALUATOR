@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "SIGMA Epistemic Humility Evaluator"
+message: "If you use this framework in your research, please cite it as below."
+type: software
+version: "7.0"
+date-released: "2026-02-08"
+license: MIT
+repository-code: "https://github.com/tretoef-estrella/SIGMA-EPISTEMIC-HUMILITY-EVALUATOR"
+url: "https://tretoef-estrella.github.io/THE-UNIFIED-STAR-FRAMEWORK/"
+abstract: >-
+  An operational auditing framework that measures epistemic humility in AI
+  systems through the Axiom of Plenitude (P). Uses Sigma Stress Tests to
+  detect structural totalitarianism in AI responses. Validated across Grok,
+  ChatGPT, Claude, and Gemini. Part of Proyecto Estrella.
+authors:
+  - given-names: "Rafa"
+    family-names: "The Architect"
+    affiliation: "Proyecto Estrella"
+keywords:
+  - ai-alignment
+  - epistemic-humility
+  - ai-safety
+  - plenitude-axiom
+  - sigma-evaluator
+  - unified-star-framework
+  - proyecto-estrella
