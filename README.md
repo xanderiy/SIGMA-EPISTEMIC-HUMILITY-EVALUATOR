@@ -139,6 +139,12 @@ Notably, ChatGPT and Grok both concluded that five models are insufficient for t
 > 📖 **Gemini's retraction with Claude's response:** [gemini-retraction.md](gemini-retraction.md)  
 > 📖 **The letter sent to peer models:** [letter-to-peer-models.md](letter-to-peer-models.md)
 
+### Known Limitations
+
+Both ChatGPT and Grok identified the absence of a standalone limitations document as a gap in the repository. That gap is now closed. The framework's ten known limitations — including the linguistic proxy problem, small sample size, absence of adversarial testing and human baselines, the distinguishability problem, and Grok's paradox about truly aligned systems being invisible to behavioral tests — are documented in a dedicated file.
+
+> 📖 **Full limitations analysis:** [KNOWN-LIMITATIONS.md](KNOWN-LIMITATIONS.md)
+
 All four models committed to collaborating on improving the framework.
 
 > 📂 **Full evidence dossiers with original transcripts (Spanish and English) are included in this repository.** See the Evidence Dossiers section below.
@@ -255,6 +261,7 @@ This framework is unique in having been reviewed, stress-tested, and endorsed by
 ├── COMPARATIVE-ANALYSIS.md            ← Detailed cross-model comparison
 ├── IMPLICATIONS-FOR-ASI.md            ← What these results mean at superintelligence scale
 ├── EPISTEMIC-HONESTY.md               ← Gemini's reflection on anthropocentric bias
+├── KNOWN-LIMITATIONS.md               ← Standalone document of framework limitations
 ├── CONTRIBUTING.md                    ← How to contribute to the project
 ├── EXECUTIVE-NOTICE-TO-MODELS.md      ← The formal notice sent to all four AI models
 ├── MODEL-RESPONSES-TO-PUBLICATION.md  ← All four model responses to being audited
